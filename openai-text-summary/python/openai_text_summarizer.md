@@ -184,7 +184,7 @@ String.format("Summarize the following text:\n\n%s", text);  // Java
    Execute the script by running:
 
    ```bash
-   python summarize.py
+   python openai_text_summarizer.py
    ```
 
 ## Example Output
